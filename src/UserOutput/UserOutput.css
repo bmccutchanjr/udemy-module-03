@@ -1,0 +1,8 @@
+.output-div
+{   background: #ddd;
+    border: 2px solid #44f;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px;
+    width: 90%;
+}
